@@ -1,0 +1,37 @@
+[ [ 
+    {
+    "id":"1",
+    "img":"./img/package/highdef3.jpg" ,
+    "name":"HIGH DEFINITION BRIDAL MAKEUP",
+     "price":"18000"
+ },{
+    "id":"2",
+     "img": "./img/package/airbrush3.jpg" ,
+    "name":"AIRBRUSH BRIDAL MAKEUP",
+    "price":"10000"
+ },{
+    "id":"2",
+     "img":"./img/package/trad3.jpg" ,
+    "name":"TRADITIONAL BRIDAL MAKEUP",
+    "price":"5000"
+ }
+],
+[
+    {
+        "id":"4",
+        "img":"./img/customize/hairstyle2.jpg", 
+         "name":"HAIR STYLE",
+         "price":"8000"
+     },{
+        "id":"5",
+        "img":"./img/customize/pleating2.jpg"  ,
+        "name":"SAREE PREPLEATING",
+        "price":"11000"
+     },{
+        "id":"6",
+        "img":"./img/customize/drapping2.jpg" ,
+        "name":"SAREE DRAPING",
+        "price":"12000"
+     }
+]
+]
