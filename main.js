@@ -249,7 +249,7 @@ const UICtrl = (function () {
             }
         },
         whatsappSection: function (data) {
-            let contactNumber = "919500469700";
+            let contactNumber = "919344234671";
             let combinedMessage = `Hello, I've just made an enquiry on your Bridal Lash Website \n\n`;
 
             data.items.forEach((el, index) => {
